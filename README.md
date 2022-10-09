@@ -1,4 +1,4 @@
-### whomai
+## whomai
 
 I am an Entrepreneurship & Business Innovation student at Tilburg University, Netherlands. I think I have quite a unique relationship to programming and to the world of computer science and just below I will briefly talk about my story in this space.
 
@@ -12,8 +12,15 @@ Soon after I started Technical Computer Science at Twente University, where unfo
 
 In 2020, during the lockdown, I kept myself busy by installing Linux on my main machine and tweaking many parts of the OS. I tried a few distros, (Ubuntu, Fedora, yeah not the hardcore ones...) and ran Linux for about 7 months as my machine OS until I accidentally broke something and lost a lot of my files. It was also during this time where I learnt a lot about open-source software and became fascinated by it.
 
-Most of my contributions 
+Now I am studying Entrepreneurship & Business Innovation, and although I love the study, I do miss not being as close to the world of software and technology anymore. However, it is my goal to go back to it and keep studying further.
+
+My next goal to improve my skills in software is to gain a deeper understanding on how to write real-life application-ready code. I have the basic understandings of the concepts behind programming languages, especially Python, but have no experience with specific frameworks or modules for real-life applications.
 
 
-creating GameMaker games when I was around 11 or 12. I enjoyed it, but I didn't fully understand how the programs I was making worked. I am now learning a variety of programming topics, always starting from the simplest working concepts so that I can confidently explain every step of the process to myself and anyone who happens to run my code.
+## Contact
+
+The fastest way to get to me is through my email address, I check it every day. Feel free to contact me about anything!
+
+Email: fede.cuci@mailbox.org
+Linkedin: https://www.linkedin.com/in/fedecuci/
 
