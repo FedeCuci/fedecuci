@@ -1,6 +1,6 @@
 ## whomai
 
-My name is Federico Cucinotta and I was born on the 6th of May 2002 in Reggio Emilia, Italy. Currently, I am a student of Entrepreneurship & Business Innovation at Tilburg University, Netherlands. I think I have quite a unique relationship to programming and to the world of computer science and just below I will briefly talk about my story in this space.
+My name is Federico Cucinotta and I was born on the 6th of May 2002 in Reggio Emilia, Italy. Currently, I am a student of Entrepreneurship & Business Innovation at Tilburg University, Netherlands. I think I have quite a unique relationship to programming and to the world of computer science and just below I'd like to share it.
 
 ## My story in the world of programming and computer science
 
