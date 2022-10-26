@@ -36,4 +36,5 @@ The fastest way to get to me is through my email address, I check it every day. 
 
 Email: fede.cuci@mailbox.org
 Linkedin: https://www.linkedin.com/in/fedecuci/
+Twitter: https://twitter.com/fedecuci_
 
