@@ -1,12 +1,10 @@
 ## whomai
 
-My name is Federico Cucinotta and I was born on the 6th of May 2002 in Reggio Emilia, Italy. Currently, I am a student of Entrepreneurship & Business Innovation at Tilburg University, Netherlands. I think I have quite a unique relationship to programming and to the world of computer science and just below I'd like to share it.
-
-## My story in the world of programming and computer science
+I am a student of Entrepreneurship & Business Innovation at Tilburg University, Netherlands.
 
 I first became exposed to programming at 11 just after I moved to the Netherlands from my home country, Italy. I started by learning HTML, CSS and JS from Codecademy and making extremely simple blog posts using HTML and Blogspot. I was always fascinated by sharing my learnings with the rest of the world through the Internet. In grade 6, just a year later, our school provided us with our personal laptops that we were allowed to take home. It was then that the Macbook Air 2012 (13 inch) became my very first personal laptop and where my journey began.
 
-My main interest has always been in 'hacking', it's what excited me the most and motivated me to learn. I soon realized that because we all had Apple laptops at school, there were some interesting things I could do. I started making Applets to try and phish some of my classmates, shutdown their computers, make them say things etc. always just for fun. I soon realized Applescript was very limited so I looked into other programming languages at the time such as ObjectiveC, Swift, JS etc. but I ended up with Python. This is where I fell in love with the language, started making simple scripts and even opened a Youtube channel to share what I learned. Because of some problems that happened with the school that I got accused of, they forced me to take my Youtube channel down or I would be expelled.
+My main interest has always been in 'hacking', it's what excited me the most and motivated me to learn. I soon realized that because we all had Apple laptops at school, there were some interesting things I could do. I started making Applets to make some of my friends' laptops do fun things always just for fun. I soon realized Applescript was very limited so I looked into other programming languages at the time such as ObjectiveC, Swift, JS etc. but I ended up with Python. This is where I fell in love with the language, started making simple scripts and even opened a Youtube channel with a friend to share what we had been working on. However, the school did not like this and forced us to take the channel down.
 
 So, I decided to work on other projects in my free time where my classmates, teachers etc. were not involved. As a fun project I tried to build a harvard reference generator (like Neil's toolbox) with the school's branding. I hosted a very basic version on a VPS using HTML, CSS and JS and another one using Python and Tkinter.
 
@@ -22,11 +20,11 @@ In 2019, I decided to create my own "Computer Science" course for high school st
 
 In 2020, during the lockdown, I installed Linux on my main machine and ran it for a few months until I accidentally broke something and lost a lot of my files. During this time I learned a lot about privacy, the open-source community, proprietary software etc. I never had the skills to contribute to code in a project, but I did my best at opening issues in the projects that I used. 
 
-Soon after, I started Technical Computer Science at Twente University, where I dropped out after just 4 months because the pandemic was making the study extremely difficult for me. In this time I met a few very smart people and worked on small coding projects with some friends.
+Soon after, I started Technical Computer Science at Twente University, where I dropped out after just 5 months because the pandemic was making the study extremely difficult for me. In this time I met a few very smart people and worked on small coding projects with some friends.
 
 Now being without a computer science degree I decided to get certified in at least Python programming at the 'Associate' level from OpenEDG. 
 
-Because of my study, I am less involved with the world of technology and I do miss it. The closest thing I do to this now is to learn about blockchain more in depth and attend local conferences in this space. Blockchain is currently the technology that interests me the most. 
+Because of my study, I am less involved with the world of technology and I do miss it. The closest thing I do to this now is to learn about blockchain more in depth and attend local conferences in this space. Blockchain is currently the technology that interests me the most. However, since ChatGPT came out, I've been following many AI projects very closely and have been testing many tools. The way things are now, I could not imagine my life without the use of LLMs and other AI-based tools. I am extremely curious about this space and following its extremely fast pace in the past few months has been super fun.
 
 However, it is my goal to go back to programming and keep studying further in the future. Specifically, I want to improve my skills in writing real-life and application-ready code. I have the basic understandings of the concepts behind programming languages, especially Python, but have always limited myself to creating scripts as proof of concept instead of usable solutinos. It is not my intention to become a professional software developer, but I would like to take my programming skills to the next level sometime in the future.
 
