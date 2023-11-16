@@ -4,6 +4,20 @@ Hi! I am Federico and I am currently a student of Entrepreneurship & Business In
 
 ## Contact details
 Email: github@fedec.online
-[![LinkedIn][4]][4.1] Linkedin: https://www.linkedin.com/in/fedecuci/
+Linkedin [![LinkedIn][4]][4.1]: https://www.linkedin.com/in/fedecuci/
 Twitter: https://twitter.com/fedecuci_
+
+<!-- links to social media icons -->
+
+[3]: https://i.imgur.com/Oy5eMls.png (gmail icon)
+[4]: https://i.imgur.com/8SInFes.png (linkedin icon)
+[5]: https://i.imgur.com/mqGwB1p.png (stackoverflow icon)
+
+
+<!-- links to your social media accounts -->
+
+[3.1]: mailto:github@fedec.online
+[4.1]: https://www.linkedin.com/in/fedecuci/
+[5.1]: https://stackoverflow.com/users/8776965/fedecuci
+
 
