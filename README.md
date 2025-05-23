@@ -2,6 +2,8 @@
 
 I am Fede, and I am currently a student of Artificial Intelligence at Leiden University, the Netherlands. My Github profile contains a combination of personal projects as well as university ones. Feel free to check them out.
 
+"Smart guy - laazy..." - Rizzla
+
 ## Contact details
 [![Gmail][1]][1.1] Email: github@fedec.online
 <br />
